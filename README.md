@@ -1,5 +1,5 @@
 # Virtual-Tourist
-This app part of udacity iOS Developer Nanodegree, This app allow anyone to see photos related to any place on earth if there is photo of course.  
+This app part of udacity iOS Developer Nanodegree, This app allow anyone to see photos related to any place on earth if there is photo of course using Flickr API.
  * [Project Rubric](https://review.udacity.com/#!/rubrics/1990/view)
 
 ## This project focused on
@@ -43,5 +43,3 @@ UIKit
 MapKit
 
 Core Data
-
-Flickr API
