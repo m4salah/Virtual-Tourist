@@ -14,14 +14,14 @@ This app part of udacity iOS Developer Nanodegree, This app allow anyone to see 
 ## App Structure
 Virtual-Tourist is following the MVC pattern. 
 
-<img src="https://github.com/mohamedspicer/Virtual-Tourist/blob/master/Demo/mainScreen.png" alt="alt text" width="800" height="500" hspace=20 vspace=20 >
+<img src="https://github.com/mohamedspicer/Virtual-Tourist/blob/master/Demo/AppStruct.png" alt="alt text" width="800" height="500" hspace=20 vspace=20 >
 
 ## Implementation
 ### Map Screen 
 This screen show what previous pin add if any, allow user to drop new pin on the map by long press and if there is any pin on the map if user tab on it will show persist picture related to that place.
 
 <p align="center">
-<img src="https://github.com/mohamedspicer/onTheMap/blob/master/Demo/login1.png" alt="alt text" width="300" height="550" >
+<img src="https://github.com/mohamedspicer/Virtual-Tourist/blob/master/Demo/mainScreen.png" alt="alt text" width="300" height="550" >
 </p>
 
 ### Pictures Screen 
